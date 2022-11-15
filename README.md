@@ -1,7 +1,28 @@
-
+<style>
+ .alert {
+	.card-content {
+		span {
+			font-weight: bold;
+			font-size: 1.1em;
+			margin-right:4px;
+		}
+		.material-icons {
+			font-size: 1.5em;
+			position: relative;
+			top: 5px;
+			margin-right: 0.5em;
+		}	
+	}
+}	
+ </style>
 ## About:
 I'm Sky-Wired, and I am a student. I love to build things, and soldering is my specialty. I do some coding for my projects, and will provide the source code of some of them here, on GitHub. My main programming language is C++, because all of my Arduino projects use it. I also do some VB.NET, Python, HTML, Javascript, CSS, Java, and others that I am probalbly forgetting. At my current school, I run a small robotics club, in which I (try) and teach kids how to use electronics.
 <br><br>
+	<div class="alert card blue lighten-4 blue-text text-darken-3">
+		<div class="card-content">
+			<p><i class="material-icons">info</i><span>This is an alert:</span> It has text within it.</p>
+		</div>
+	</div>
 _**Please note that this site is still**_<br>
 <img src="https://th.bing.com/th/id/OIP.cFKcPo55PxVWjgCMo0t8_wHaAu?pid=ImgDet&w=2378&h=235&rs=1" width="300px" height="30px" alt="Under Cons."></img>
 <br><br>
