@@ -1,0 +1,2 @@
+# Hi, I'm Sky-Wired
+###### I'm Sky-Wired, and I am a student. I love to build things, and soldering is my specialty. I do some coding for my projects, and can provide the source code here. My main language is C++, because all of my Arduino projects use it. I also do some VB.NET, Python, HTML, Javascript, CSS, Java, and others that I am probalbly forgetting. At my current school, I run a small robotics club, in which I (try) and teach kids how to use electronics.
