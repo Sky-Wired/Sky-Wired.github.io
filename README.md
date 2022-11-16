@@ -3,7 +3,8 @@
 I'm Sky-Wired, and I am a student. I love to build things, and soldering is my specialty. I do some coding for my projects, and will provide the source code of some of them here, on GitHub. My main programming language is C++, because all of my Arduino projects use it. I also do some VB.NET, Python, HTML, Javascript, CSS, Java, and others that I am probalbly forgetting. At my current school, I run a small robotics club, in which I (try) and teach kids how to use electronics.
 
 _**Please note that this site is still**_<br>
-<img src="https://th.bing.com/th/id/OIP.cFKcPo55PxVWjgCMo0t8_wHaAu?pid=ImgDet&w=2378&h=235&rs=1" width="300px" height="30px" alt="Under Cons."> </img>
+<img src="https://th.bing.com/th/id/OIP.cFKcPo55PxVWjgCMo0t8_wHaAu?pid=ImgDet&w=2378&h=235&rs=1" width="300px" height="30px" alt="Under Cons.">
+</img>
 <br><br>
 ## Other Medias:
 Find me on YouTube at: [Sky-Wired YouTube](https://www.youtube.com/@sky-wired)<br>
