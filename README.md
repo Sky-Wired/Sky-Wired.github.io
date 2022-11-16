@@ -4,7 +4,7 @@ I'm Sky-Wired, and I am a student. I love to build things, and soldering is my s
 
 _**Please note that this site is still**_<br>
 <img src="https://th.bing.com/th/id/OIP.cFKcPo55PxVWjgCMo0t8_wHaAu?pid=ImgDet&w=2378&h=235&rs=1" width="300px" height="30px" alt="Under Cons.">
-</img>
+
 <br><br>
 ## Other Medias:
 Find me on YouTube at: [Sky-Wired YouTube](https://www.youtube.com/@sky-wired)<br>
