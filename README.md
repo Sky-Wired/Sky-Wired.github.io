@@ -29,7 +29,7 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
 ## Images:
 
   Simple Power Supply Mod (Lower and Higher Voltages)<br>
-  <iframe src="https://www.youtube.com/watch?v=D5EBDxATRuU"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/D5EBDxATRuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
   <br>
