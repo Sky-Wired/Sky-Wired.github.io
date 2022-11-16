@@ -29,40 +29,37 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
 ## Images:
 
   Simple Power Supply Mod (Lower and Higher Voltages)<br>
-  <iframe src="https://hfu8k.csb.app"></iframe>
-  ![PSU Thumb](https://i9.ytimg.com/vi/D5EBDxATRuU/mqdefault.jpg?sqp=CJiv0JsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gSSgYMA8=&rs=AOn4CLANcBTdvHhN5j8QlSkDEitiSxDDTg)
+  <iframe src="https://www.youtube.com/watch?v=D5EBDxATRuU"></iframe>
+ 
   <br>
   <br>
   <br>
   WiFi Person Counter<br>
-  ![WiFi Person Thumb](https://i9.ytimg.com/vi_webp/zfKggyplvr0/mqdefault.webp?v=630694de&sqp=CJiv0JsG&rs=AOn4CLDb_x5pKk4HUaH-5i-e-uMf_8nuew)
+  <iframe src="https://www.youtube.com/watch?v=zfKggyplvr0"></iframe>
   <br>
   <br>
   <br>
   Digital Bikeometer<br>
-  ![Bikeometer Thumb](https://i9.ytimg.com/vi/U1Cj5HeO4po/mqdefault.jpg?sqp=CJiv0JsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhXMA8=&rs=AOn4CLAoZCXgmJtp3gOyGV9HnWLoGVRiPA)
+ <iframe src="https://www.youtube.com/watch?v=U1Cj5HeO4po"></iframe>
   <br>
   <br>
   <br>
   SmallBot (Small robot)<br>
-  ![Smallbot Thumb](https://i9.ytimg.com/vi_webp/jH-XFTBJIt0/mqdefault.webp?sqp=CJiv0JsG&rs=AOn4CLD5eH2Z1-9iNnMZmTLp4COr7Ke3KQ)
-  <br>
+  <iframe src=""></iframe>  <br>
   <br>
   <br>
   400W Wind Turbine<br>
-  ![400W Wind Turbine Thumb](https://i9.ytimg.com/vi/DYjLA9w7hLY/mqdefault.jpg?sqp=CJiv0JsG-oaymwEmCMACELQB8quKqQMa8AEB-AHeA4AC4AOKAgwIABABGFQgYyhlMA8=&rs=AOn4CLA-TUqgD8JNG0_Vb8dljj6DZg14YQ)
+  <iframe src=""></iframe>
   <br>
   <br>
   <br>
   Autonomous Car V1 - 2021<br>
-  ![Autonomous Car Thumb](https://i9.ytimg.com/vi_webp/V7c8HIg8tow/mqdefault.webp?v=61ad2e83&sqp=CJiv0JsG&rs=AOn4CLAnEdIZNs2k9I73_mwtYpWIHRtGKQ)
-  <br>
+   <iframe src=""></iframe>  <br>
   <br>
   <br>
   Autonomous Car V2 - 2022<br>
-  ![Autonomous Car V2 Thumb](https://i.ytimg.com/vi/AVWFyZNiV-Y/hqdefault.jpg)
+  <iframe src=""></iframe>
   
-  ![]()
 
 <br><br>
 <br><br><br>
