@@ -35,26 +35,26 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
   <br>
   <br>
   WiFi Person Counter<br>
-  <iframe src="https://www.youtube.com/watch?v=zfKggyplvr0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfKggyplvr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
   <br>
   <br>
   Digital Bikeometer<br>
- <iframe src="https://www.youtube.com/watch?v=U1Cj5HeO4po"></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/U1Cj5HeO4po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
   <br>
   <br>
   SmallBot (Small robot)<br>
-  <iframe src=""></iframe>  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jH-XFTBJIt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
   <br>
   <br>
   400W Wind Turbine<br>
-  <iframe src=""></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/DYjLA9w7hLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
   <br>
   <br>
   Autonomous Car V1 - 2021<br>
-   <iframe src=""></iframe>  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/V7c8HIg8tow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
   <br>
   <br>
   Autonomous Car V2 - 2022<br>
