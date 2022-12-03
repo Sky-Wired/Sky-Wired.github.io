@@ -63,6 +63,10 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
   
 
 <br><br>
+#### My projects with resources:
+You can find all documentation 
+ [here.](github.com/Sky-Wired/Sky-Wired.github.io)<br>
+ 
 <br><br><br>
 ###### More will be added soon!
 
