@@ -7,8 +7,8 @@ String voltage = "0.00";
 String lastChecked = "";
 String readString;
 // Replace with your network credentials
-const char* ssid     = "Pickle Barrel";
-const char* password = "m0987654321H";
+const char* ssid     = "p rel";
+const char* password = "h";
 bool change = false;
 // Set web server port number to 80
 WiFiServer server(80);
