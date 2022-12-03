@@ -10,16 +10,17 @@ _**Please note that this site is still**_<br>
 Find me on YouTube at: [Sky-Wired YouTube](https://www.youtube.com/@sky-wired)<br>
 Find me on github: [Sky-Wired GitHub](https://github.com/Sky-Wire)<br>
 Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.com/member/skywiredvt/)<br>
-<br><br>
+<br>
+<br>
 ## My Popular Projects:
 
 #### My online projects:
   * 7/3/19: Online QR code generator: https://gg.gg/qr-code-generator (https://4jxf2.csb.app/)<br>
-  * 3/18/20: Clicker Game: https://gg.gg/clicker-game (https://hfu8k.csb.app)
-<br>
+  * 3/18/20: Clicker Game: https://gg.gg/clicker-game (https://hfu8k.csb.app)<br>
+
 #### My projects with resources:
-<u>You can find all documentation, source code, and more [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)</u>
-<br>
+You can find all documentation, source code, and more [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)<br>
+
 #### My offline projects (Found on YouTube):
   * Tesla Coil
   * Autonomous Car V1
