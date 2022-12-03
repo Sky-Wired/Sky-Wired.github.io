@@ -17,10 +17,10 @@
 */
 #include <ArduinoJson.h>
 //open weather map api key
-String apiKey = "95611ed6705e02bf854f20b2fcd6c5c4";
+String apiKey = "API KEY";
 
 //the city you want the weather for
-String location = "02155,US";
+String location = "US";
 
 char server[] = "api.openweathermap.org";
 
@@ -37,8 +37,8 @@ String theTimeMins;
 RTCZero rtc;
 WiFiClient client;
 ///////please enter your sensitive data in the Secret tab/arduino_secrets.h
-char ssid[] = "Pickle Barrel";        // your network SSID (name)
-char pass[] = "m0987654321H";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "Pickle";        // your network SSID (name)
+char pass[] = "pass  // your network password (use for WPA, or use as key for WEP)
 int keyIndex = 0;                           // your network key Index number (needed only for WEP)
 
 int status = WL_IDLE_STATUS;
