@@ -17,6 +17,9 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
   * 7/3/19: Online QR code generator: https://gg.gg/qr-code-generator (https://4jxf2.csb.app/)<br>
   * 3/18/20: Clicker Game: https://gg.gg/clicker-game (https://hfu8k.csb.app)
 
+#### My projects with resources:
+You can find all documentation, source code, and more [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)
+
 #### My offline projects (Found on YouTube):
   * Tesla Coil
   * Autonomous Car V1
@@ -62,10 +65,7 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
   <iframe src=""></iframe>
   
 
-<br><br>
-#### My projects with resources:
-You can find all documentation 
- [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)<br>
+
  
 <br><br><br>
 ###### More will be added soon!
