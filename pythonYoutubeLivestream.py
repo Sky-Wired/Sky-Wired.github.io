@@ -1,5 +1,5 @@
 import pytchat
-chat = pytchat.create(video_id="oREtq8Fa75s")
+chat = pytchat.create(video_id="id")
 print("started listening!")
 while chat.is_alive():
     
