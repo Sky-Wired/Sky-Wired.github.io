@@ -29,8 +29,8 @@ You can find all documentation, source code, and more [here.](https://github.com
   * SmallBot V1
   * DIY Bikeometer
   * WiFi Person Counter
-  * Modifying a Cheap PSU
-<br>
+  * Modifying a Cheap PSU<br>
+
 ## Images:
 
   Simple Power Supply Mod (Lower and Higher Voltages)<br>
