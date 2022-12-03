@@ -16,10 +16,10 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
 #### My online projects:
   * 7/3/19: Online QR code generator: https://gg.gg/qr-code-generator (https://4jxf2.csb.app/)<br>
   * 3/18/20: Clicker Game: https://gg.gg/clicker-game (https://hfu8k.csb.app)
-
+<br>
 #### My projects with resources:
 <u>You can find all documentation, source code, and more [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)</u>
-
+<br>
 #### My offline projects (Found on YouTube):
   * Tesla Coil
   * Autonomous Car V1
@@ -29,7 +29,7 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
   * DIY Bikeometer
   * WiFi Person Counter
   * Modifying a Cheap PSU
-
+<br>
 ## Images:
 
   Simple Power Supply Mod (Lower and Higher Voltages)<br>
