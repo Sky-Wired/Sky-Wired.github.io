@@ -18,7 +18,7 @@ Find me on Instructables: [Sky-Wired Instructables](https://www.instructables.co
   * 3/18/20: Clicker Game: https://gg.gg/clicker-game (https://hfu8k.csb.app)
 
 #### My projects with resources:
-You can find all documentation, source code, and more [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)
+<u>You can find all documentation, source code, and more [here.](https://github.com/Sky-Wired/Sky-Wired.github.io)</u>
 
 #### My offline projects (Found on YouTube):
   * Tesla Coil
